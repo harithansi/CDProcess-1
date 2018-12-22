@@ -29,7 +29,7 @@ button:hover {
     opacity: 0.8;
 }
 
-.cancelbtn {
+.cancelbtn  {
     width: auto;
     padding: 10px 18px;
     background-color: #f44336;
