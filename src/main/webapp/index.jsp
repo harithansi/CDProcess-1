@@ -82,7 +82,7 @@ span.psw {
 
   <div class="container">
     <label for="uname"><b>Enter Jenkinsname</b></label>
-    <input type="text" placeholder="Enter Username" name="uname" required>
+    <input type="text" placeholder="Enter admin Username" name="uname" required>
              
     <label for="psw"><b>Enter Password</b></label>
     <input type="password" placeholder="Enter  Password" name="psw" required>
